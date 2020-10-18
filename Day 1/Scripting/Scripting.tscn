@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://sayhello.gd" type="Script" id=1]
+[ext_resource path="res://TestingDelta.gd" type="Script" id=2]
 
 [node name="Scripting" type="Node2D"]
 
@@ -20,6 +21,17 @@ margin_bottom = 259.805
 text = "This is a label"
 align = 1
 valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TestingDelta" type="Label" parent="Panel"]
+margin_left = 19.5998
+margin_top = 11.5817
+margin_right = 59.5998
+margin_bottom = 25.5817
+text = "Testing Delta"
+script = ExtResource( 2 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
