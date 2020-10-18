@@ -1,4 +1,4 @@
-# 30-Days-of-Godot
+# 🕹 30-Days-of-Godot
 ![30 Days of Godot Cover](https://github.com/daverencordero/30-Days-of-Godot/blob/main/README/github-sm-previews_30-days-of-godot.png?raw=true)
 
 #### About
